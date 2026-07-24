@@ -95,10 +95,6 @@ Pipeline organizing **~14,800** crowd-sourced listings into a clean dataset of a
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=kurieu-mx&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFCB05&icon_color=FFCB05&text_color=9BA3AF&include_all_commits=true&count_private=true" alt="stats"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurieu-mx&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFCB05&text_color=9BA3AF&langs_count=8" alt="top langs"/>
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=kurieu-mx&hide_border=true&background=0D1117&stroke=1B2735&ring=FFCB05&fire=FFCB05&currStreakLabel=FFCB05&sideLabels=9BA3AF&dates=6B7280&currStreakNum=ffffff&sideNums=ffffff&dayLabels=9BA3AF" alt="streak"/>
-
 </div>
 
 <!-- ==================== CONNECT ==================== -->
